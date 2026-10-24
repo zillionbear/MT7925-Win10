@@ -61,3 +61,10 @@ After this, we can turn Secure Boot on again. Do this in your UEFI setup.
 After coming back, we can also disable running unsigned scripts in. Open PowerShell as administrator:
 
 ``Set-ExecutionPolicy Undefined``
+
+# Credits and a NOTICE!
+I am NOT liable for any damage that may occur to your device. Use of these scripts is exclusively at your own risk.
+
+I'd like to credit GitHub user Rozakos for being an awesome jumping point for my research into getting this to work. While the procedure outlined in the repository worked excellently, the code seems to be nonfunctional at the moment. I suppose vibecoding only gets you so far 😜
+
+This was a super fun project that took about five hours to set up, from learning PowerShell for the first time to uploading the files to GitHub. Prior to this, I have zero PowerShell scripting knowledge.
