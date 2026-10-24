@@ -58,7 +58,7 @@ Then restart your computer.
 
 After this, we can turn Secure Boot on again. Do this in your UEFI setup.
 
-After coming back, we can also disable running unsigned scripts in. Open PowerShell as administrator:
+After coming back, we can also disable running unsigned scripts. Open PowerShell as administrator:
 
 ``Set-ExecutionPolicy Undefined``
 
